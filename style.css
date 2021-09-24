@@ -103,6 +103,17 @@ footer {
   background: linear-gradient(128.67deg, #333a64 6.3%, #0c0e1a 104.01%);
 }
 
+#About {
+  position: relative;
+}
+
+#About img {
+  position: absolute;
+  margin-top: 40px;
+  width: 200px;
+  height: 200px;
+}
+
 .material-icons {
   font-family: "Material Icons";
   font-weight: normal;
